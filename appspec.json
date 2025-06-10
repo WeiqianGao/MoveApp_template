@@ -1,18 +1,18 @@
 {
-  "version": "1.2",
+  "version": "1.0",
   "settings": [
     {
       "id": "sdk",
-      "name": "The name of the MoveApps SDK",
+      "name": "MoveApps SDK_testing",
       "description": "Showcase requesting a string input from the users of your app.",
       "defaultValue": "MoveApps SDK",
       "type": "STRING"
     },
     {
       "id": "year",
-      "name": "The year",
+      "name": "2025",
       "description": "Insert description for the year setting setting",
-      "defaultValue": 2022,
+      "defaultValue": 2025,
       "type": "INTEGER"
     },
     {
